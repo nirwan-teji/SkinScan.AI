@@ -1,0 +1,6 @@
+flask==3.0.2
+flask-cors==4.0.0
+opencv-python-headless==4.9.0.80
+transformers==4.38.2
+huggingface_hub==0.20.3
+numpy==1.26.4
